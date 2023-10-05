@@ -4,8 +4,10 @@
 </h1>
 
 <h1 align="center">
+ <a href="https://stackoverflow.com/users/11152425/ale-bianco">
   <!-- <img src="https://stackoverflow.com/users/flair/11152425.png?theme=dark" /> -->
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11152425" />
+ </a>
 </h1>
 
 <h1 align="center">
