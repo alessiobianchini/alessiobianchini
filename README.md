@@ -17,4 +17,8 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail" />
   </a>
+   <a href="https://stackoverflow.com/users/11152425/ale-bianco">
+   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
+        alt="Stack overflow" />
+  </a>
 </h1>
