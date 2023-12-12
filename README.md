@@ -24,3 +24,9 @@
         alt="Stack overflow" />
   </a>
 </h1>
+<h1 align="center">
+ <a href="https://interstate21.com/certificate/?code=3G25ISQ">
+   <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" 
+        alt="Alessio Bianchini Angular expert" />
+  </a>
+</h1>
