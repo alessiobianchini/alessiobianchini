@@ -25,9 +25,9 @@
   </a>
 </h1>
 <h1 align="center">
- <a href="https://interstate21.com/certificate/?code=3G25ISQ" target="_blank">
+ <a href="https://certificates.dev/c/2a95aae2-6604-4959-8179-d871cd534153" target="_blank">
    <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" 
-        alt="Alessio Bianchini Angular expert" />
+        alt="Certified Senior Angular Developer" />
   </a>
 </h1>
 <h5 align="center">
