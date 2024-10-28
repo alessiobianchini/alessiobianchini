@@ -3,12 +3,12 @@
   <img src="https://github-stats-alpha.vercel.app/api?username=alessiobianchini&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
 </h1>
 
-<h1 align="center">
+<!-- <h1 align="center">
  <a href="https://stackoverflow.com/users/11152425/ale-bianco" target="_blank">
-  <!-- <img src="https://stackoverflow.com/users/flair/11152425.png?theme=dark" /> -->
+  <img src="https://stackoverflow.com/users/flair/11152425.png?theme=dark" /> 
   <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/11152425" />
  </a>
-</h1>
+</h1> -->
 
 <h1 align="center">
  <a href="https://www.linkedin.com/in/alessiobianchini" target="_blank">
