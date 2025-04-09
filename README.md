@@ -23,6 +23,10 @@
    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
         alt="Stack overflow" />
   </a>
+   <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
+   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" 
+        alt="Credly" />
+  </a>
 </h1>
 <h1 align="center">
  <a href="https://certificates.dev/c/2a95aae2-6604-4959-8179-d871cd534153" target="_blank">
