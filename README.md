@@ -26,9 +26,13 @@
    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
         alt="Stack overflow" />
   </a>
-   <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
+  <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" 
         alt="Credly" />
+  </a>
+  <a href="https://g.dev/abianchini" target="_blank">
+   <img src="https://img.shields.io/badge/Developers-FFFFFF?style=for-the-badge&logo=google&logoColor=black" 
+        alt="Google for developers" />
   </a>
  </p>
 </h1>
