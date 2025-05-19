@@ -6,14 +6,24 @@
 </h1>
 <h1 align="center">
  <a href="https://certificates.dev/c/2a95aae2-6604-4959-8179-d871cd534153" target="_blank">
-   <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" 
+   <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" width=150
         alt="Certified Senior Angular Developer" />
   </a>
  <p>
-   <a href="https://github.com/sponsors/alessiobianchini" target="_blank">
-   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" 
-        alt="GitHub sponsor" />
+  <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
+   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" 
+        alt="Credly" />
   </a>
+  <a href="https://g.dev/abianchini" target="_blank">
+   <img src="https://img.shields.io/badge/Developers-FFFFFF?style=for-the-badge&logo=google&logoColor=black" 
+        alt="Google for developers" />
+  </a>
+  <a href="https://stackoverflow.com/users/11152425/ale-bianco" target="_blank">
+   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
+        alt="Stack overflow" />
+  </a>
+ </p>
+  <p>
  <a href="https://www.linkedin.com/in/alessiobianchini" target="_blank">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt="Alessio Bianchini" />
@@ -22,17 +32,11 @@
    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
         alt="Gmail" />
   </a>
-   <a href="https://stackoverflow.com/users/11152425/ale-bianco" target="_blank">
-   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" 
-        alt="Stack overflow" />
-  </a>
-  <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
-   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" 
-        alt="Credly" />
-  </a>
-  <a href="https://g.dev/abianchini" target="_blank">
-   <img src="https://img.shields.io/badge/Developers-FFFFFF?style=for-the-badge&logo=google&logoColor=black" 
-        alt="Google for developers" />
+ </p>
+ <p>
+   <a href="https://github.com/sponsors/alessiobianchini" target="_blank">
+   <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" 
+        alt="GitHub sponsor" />
   </a>
  </p>
 </h1>
