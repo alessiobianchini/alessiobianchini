@@ -9,6 +9,10 @@
    <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" width=150
         alt="Certified Senior Angular Developer" />
   </a>
+ <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/1342DD1A9F6FD3CD?sharingId=5B638BA32A61F59E" target="_blank">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width=150
+        alt="Azure AI Engineer Associate" />
+ </a>
  <p>
   <a href="https://www.credly.com/users/alessio-bianchini.c9155f98" target="_blank">
    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" 
