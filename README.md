@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=42&duration=2500&pause=400&color=1773F5&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Alessio+Bianchini;Software+Architect+%40+DOIT;Cloud+%7C+AI+%7C+Distributed+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&size=42&duration=1500&pause=400&color=1773F5&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Alessio+Bianchini;Software+Architect+%40+DOIT;Cloud+%7C+AI+%7C+Distributed+Systems" />
 </h1>
 
 <p align="center">
