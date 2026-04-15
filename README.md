@@ -3,45 +3,41 @@
 </h1>
 
 <p align="center">
-  <b>Architecting intelligent systems that scale.</b>
+  <b>Building distributed systems, APIs and tools that don’t fall apart in production.</b>
 </p>
 
 ---
 
-### What I Do
+### 👨‍💻 What I do
 
-I design and build scalable, secure and AI-powered systems.
-
-- 🏗️ Architecting enterprise-grade distributed systems
-- ☁️ Designing cloud-native solutions on Azure
-- 🤖 Integrating AI & LLM-driven automation
-- 🔐 Engineering secure infrastructures (OAuth2, certificates, enterprise identity)
-- 🎯 Leading frontend architectures with Angular & modern UI systems
+- Design distributed systems and backend architectures  
+- Build cloud solutions on Azure  
+- Work with AI/LLMs (when they solve real problems)  
+- Deal with security (OAuth2, certificates, identity flows)  
+- Structure frontend apps with Angular  
 
 ---
 
-### Focus Areas
+### 🧠 Focus
 
-- Distributed architectures & microservices
-- Secure healthcare & enterprise integrations
-- AI-powered automation workflows
-- High-performance frontend systems
-- DevOps pipelines & release automation
-
----
-
-### Open Source & Innovation
-
-I actively experiment with:
-
-- AI-driven applications
-- Angular ecosystem evolution
-- Modern testing strategies (Vitest, standalone components)
-- Clean architecture patterns
+- Microservices & distributed systems  
+- Healthcare / enterprise integrations  
+- Automation & system design  
+- Frontend performance  
+- CI/CD & delivery pipelines  
 
 ---
 
-### Certifications
+### 🧪 Side work
+
+- AI experiments and tools  
+- Angular ecosystem (and its edge cases)  
+- Testing (Vitest, standalone components)  
+- Clean architecture & maintainability  
+
+---
+
+### 🏅 Certifications
 
 <p align="center">
   <a href="https://certificates.dev/c/2a95aae2-6604-4959-8179-d871cd534153" target="_blank">
@@ -54,7 +50,7 @@ I actively experiment with:
 
 ---
 
-### GitHub Activity
+### 📊 GitHub
 
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=alessiobianchini&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
@@ -62,7 +58,7 @@ I actively experiment with:
 
 ---
 
-### Connect
+### 🔗 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alessiobianchini" target="_blank">
@@ -78,10 +74,8 @@ I actively experiment with:
 
 ---
 
-### Philosophy
+### ⚙️ Notes
 
-> “Great software is not just written — it is architected.”
-
-Building systems that scale.  
-Designing experiences that matter.  
-Engineering the future with AI.
+- I care about systems that are **maintainable over time**  
+- I prefer **simple solutions that scale** over complex ones that impress  
+- I try to build things that other developers won’t hate  
