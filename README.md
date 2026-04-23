@@ -42,34 +42,14 @@ I prioritize:
 
 ## Certifications
 
-<p align="center"><strong>Verified credentials</strong></p>
+<p><strong>Verified credentials</strong> (badge + direct verification):</p>
 
-<p align="center">
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/B45CFA4E35740AFB?sharingId=5B638BA32A61F59E">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="124" alt="Azure AI Fundamentals badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/1342DD1A9F6FD3CD?sharingId=5B638BA32A61F59E">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="124" alt="Azure AI Engineer Associate badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://certificates.dev/angular/certificates/2a95aae2-6604-4959-8179-d871cd534153">
-    <img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" width="124" alt="Certified Senior Angular Developer badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.credly.com/badges/5d67a412-2ab5-40e7-8e5e-22384e204f49">
-    <img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="124" alt="Generative AI Leader Certification badge" />
-  </a>
-</p>
-
-<p align="center"><sub>Click any badge for verification.</sub></p>
-
-**Verification links:**
-
-- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/B45CFA4E35740AFB?sharingId=5B638BA32A61F59E) - Microsoft
-- [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/1342DD1A9F6FD3CD?sharingId=5B638BA32A61F59E) - Microsoft
-- [Certified Senior Angular Developer](https://certificates.dev/angular/certificates/2a95aae2-6604-4959-8179-d871cd534153) - Angular Training / Certificates.dev
-- [Generative AI Leader Certification (Google Cloud)](https://www.credly.com/badges/5d67a412-2ab5-40e7-8e5e-22384e204f49) - Google Cloud
+|  | Credential |
+| --- | --- |
+| <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/B45CFA4E35740AFB?sharingId=5B638BA32A61F59E"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" width="62" alt="Azure AI Fundamentals badge" /></a> | [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/B45CFA4E35740AFB?sharingId=5B638BA32A61F59E)<br/><sub>Microsoft</sub> |
+| <a href="https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/1342DD1A9F6FD3CD?sharingId=5B638BA32A61F59E"><img src="https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="62" alt="Azure AI Engineer Associate badge" /></a> | [Microsoft Certified: Azure AI Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/AlessioBianchini/1342DD1A9F6FD3CD?sharingId=5B638BA32A61F59E)<br/><sub>Microsoft</sub> |
+| <a href="https://certificates.dev/angular/certificates/2a95aae2-6604-4959-8179-d871cd534153"><img src="https://www.angulartraining.com/images/badges/Certification%20Badge%20-%20Level%203.png" width="62" alt="Certified Senior Angular Developer badge" /></a> | [Certified Senior Angular Developer](https://certificates.dev/angular/certificates/2a95aae2-6604-4959-8179-d871cd534153)<br/><sub>Angular Training / Certificates.dev</sub> |
+| <a href="https://www.credly.com/badges/5d67a412-2ab5-40e7-8e5e-22384e204f49"><img src="https://images.credly.com/images/ec23e41a-0f32-4a98-9c00-28925621b281/blob" width="62" alt="Generative AI Leader Certification badge" /></a> | [Generative AI Leader Certification (Google Cloud)](https://www.credly.com/badges/5d67a412-2ab5-40e7-8e5e-22384e204f49)<br/><sub>Google Cloud</sub> |
 
 ---
 
