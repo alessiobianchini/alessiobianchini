@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alessiobianchini.me">
+  <a href="http://alessiobianchini.me">
     <img src="https://img.shields.io/badge/Website-alessiobianchini.me-0B1F3A?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/alessiobianchini">
@@ -68,7 +68,7 @@ I prioritize:
 
 ## Contact
 
-- Website: [alessiobianchini.me](https://alessiobianchini.me)
+- Website: [alessiobianchini.me](http://alessiobianchini.me)
 - Email: [abianchini.it@gmail.com](mailto:abianchini.it@gmail.com)
 - LinkedIn: [linkedin.com/in/alessiobianchini](https://www.linkedin.com/in/alessiobianchini)
 - Stack Overflow: [stackoverflow.com/users/11152425](https://stackoverflow.com/users/11152425)
