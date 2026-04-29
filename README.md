@@ -51,10 +51,10 @@ I prioritize:
 
 ## GitHub Snapshot
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/github/stars/alessiobianchini/ng-flex-layout?style=for-the-badge&logo=github&label=ng-flex-layout%20Stars" alt="ng-flex-layout stars" />
   <img src="https://img.shields.io/github/last-commit/alessiobianchini/DesktopAgent?style=for-the-badge&logo=github&label=DesktopAgent%20Last%20Commit" alt="DesktopAgent last commit" />
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alessiobianchini&show_icons=true&hide_border=true&include_all_commits=false&rank_icon=github" alt="GitHub stats" />
