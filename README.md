@@ -73,4 +73,3 @@ I help teams move from *ad-hoc engineering* to **structured, scalable, and obser
 - 📧 Email: [abianchini.it@gmail.com](mailto:abianchini.it@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/alessiobianchini](https://www.linkedin.com/in/alessiobianchini)  
 - 🧠 Stack Overflow: [stackoverflow.com/users/11152425](https://stackoverflow.com/users/11152425)
-``
