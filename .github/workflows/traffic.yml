@@ -1,4 +1,4 @@
-name: Storicizzazione Visite
+name: Views history
 
 on:
   schedule:
@@ -9,7 +9,7 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Estrai e salva statistiche
+      - name: Extract and save
         uses: jgehrcke/github-repo-stats@v1.4.2
         with:
           repository: ${{ github.repository }}
