@@ -1,0 +1,16 @@
+name: Storicizzazione Visite
+
+on:
+  schedule:
+    - cron: '0 23 * * *' 
+  workflow_dispatch:     
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Estrai e salva statistiche
+        uses: jgehrcke/github-repo-stats@v1.4.2
+        with:
+          repository: ${{ github.repository }}
+          ghtoken: ${{ secrets.TRAFFIC_PAT }}
